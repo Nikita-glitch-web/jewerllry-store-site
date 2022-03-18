@@ -110,3 +110,12 @@ p {
 .language-switcher {
   padding-top: 30px;
 }
+
+.block-with-img-section {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  width: 600px;
+}
