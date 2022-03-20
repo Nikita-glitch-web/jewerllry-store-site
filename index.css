@@ -64,6 +64,12 @@ p {
   margin-top: 15px;
 }
 
+.big-title-in-menu-box {
+  position: relative;
+  left: 7%;
+  right: 50%;
+}
+
 .franche-lang-swithcer {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -117,5 +123,95 @@ p {
 }
 
 .img {
-  width: 600px;
+  width: 580px;
+  height: 690px;
+  background-image: url(./images/first-img-with-ring.png);
+  background-size: cover;
+}
+
+.img-last {
+  width: 580px;
+  height: 690px;
+  background-image: url(./images/img-with-nigga.png);
+  background-size: cover;
+}
+
+.text-in-big-img {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  text-transform: capitalize;
+  position: absolute;
+  top: 80%;
+  left: 5%;
+  color: #ffffff;
+}
+
+.text-in-big-img-last {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  position: absolute;
+  top: 80%;
+  left: 70%;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.big-text-part {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 64px;
+  color: #000000;
+}
+
+.little-text-part {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  color: #000000;
+}
+
+.right-part-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 22px;
+  text-transform: uppercase;
+  border: none;
+  color: #000000;
+}
+
+.block-with-jewerlly-info-wrapper {
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 70px;
+}
+
+.little-text-part {
+  padding-top: 30px;
+}
+
+.title-in-nav {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.box-with-jewerlly-products-nav {
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 150px;
 }
