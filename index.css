@@ -9,6 +9,7 @@ html {
 
 body {
   min-height: 100vh;
+  background: #e5e5e5;
 }
 
 body,
@@ -248,7 +249,6 @@ p {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   line-height: 18px;
-
   color: #000000;
 }
 
@@ -282,4 +282,12 @@ p {
   color: #000000;
   padding-bottom: 60px;
   padding-left: 40px;
+}
+
+.block-with-neckale {
+  width: 500px;
+}
+
+.block-with-ring {
+  width: 500px;
 }
