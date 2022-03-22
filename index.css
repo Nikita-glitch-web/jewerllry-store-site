@@ -44,8 +44,6 @@ p {
 .header-content-menu-box {
   height: 90px;
   width: 100%;
-  display: flex;
-  justify-content: space-between;
 }
 
 .menu-btn {
@@ -290,4 +288,12 @@ p {
 
 .block-with-ring {
   width: 500px;
+}
+
+.header-content-menu-wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1700px;
+  width: 100%;
+  margin: 0 auto;
 }
