@@ -297,3 +297,83 @@ p {
   width: 100%;
   margin: 0 auto;
 }
+
+.img-with-hand {
+  width: 440px;
+  height: 550px;
+  background-image: url(./images/img-with-hand.png);
+  background-size: cover;
+}
+
+.img-with-wrist {
+  width: 440px;
+  height: 550px;
+  background-image: url(./images/img-with-wrist.png);
+  background-size: cover;
+}
+
+.img-with-earing {
+  width: 440px;
+  height: 550px;
+  background-image: url(./images/img-with-earing.png);
+  background-size: cover;
+}
+
+.products-categories-wrapper {
+  max-width: 1380px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.products-categories-wrapper-content {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+.products-categories-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.text-in-img-with-hand {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 42px;
+  text-transform: capitalize;
+  color: #ffffff;
+  position: relative;
+  top: 91%;
+  left: 10%;
+}
+
+.box-with-books {
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 80px;
+}
+
+.box-with-books-img {
+  width: 720px;
+  height: 936px;
+  background-image: url(./images/img-with-books.jpg);
+  background-size: cover;
+}
+
+.book-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+  position: relative;
+  top: 3%;
+  left: 5%;
+}
