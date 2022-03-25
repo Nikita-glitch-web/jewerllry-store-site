@@ -377,3 +377,55 @@ p {
   top: 3%;
   left: 5%;
 }
+
+.text-about-jewerlly {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 60px;
+  color: #000000;
+}
+
+.text-about-jewerlly-box {
+  max-width: 1380px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.number {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  color: #000000;
+}
+
+.number-wrapper {
+  padding-top: 35px;
+}
+
+.jewerlly-sketcher-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+  padding-top: 57px;
+}
+
+.block-with-jewerlly-sketches {
+  max-width: 1380px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.alone-button {
+  max-width: 1395px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 60px;
+}
