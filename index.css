@@ -241,13 +241,13 @@ p {
 }
 
 .menu-btn-product {
-  background: white;
   border: none;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   line-height: 18px;
   color: #000000;
+  background: #e5e5e5;
 }
 
 .bottom-info-row {
@@ -284,10 +284,12 @@ p {
 
 .block-with-neckale {
   width: 500px;
+  height: 450px;
 }
 
 .block-with-ring {
-  width: 500px;
+  height: 450px;
+  width: 380px;
 }
 
 .header-content-menu-wrapper {
@@ -428,4 +430,9 @@ p {
   width: 100%;
   margin: 0 auto;
   padding-top: 60px;
+  background: #e5e5e5;
+}
+
+.block-with-neckale-title-first {
+  padding-bottom: 15px;
 }
